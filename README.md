@@ -6,14 +6,14 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Philippine Culture Research and Development on Digital Technology and Provincial Government of Bohol Software Development
-- 🌱 I’m currently learning Computing 
+- 🔭 I’m currently working on Research and Software Development
+- 🌱 I’m currently learning in Computing 
 - 👯 I’m looking to collaborate on Computer Engineering, Computer Science, Information Systems, Software Development and Information Technology 
-- 🤔 I’m looking for help with ...
 - 😄 Pronouns: Robot
 - ⚡ Fun fact: I love languages, programming and human languages
 
 <!--
 - 💬 Ask me about ...
+- 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...  -->
 
