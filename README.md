@@ -1,4 +1,7 @@
-### I am an active learner that likes to compute problems. I am interested in promoting culture using computing and engineering because I believe it brings people together. ᜄᜈᜑᜈ᜔ ᜈᜃᜓ ᜁᜎᜋ᜔ᜊᜓ ᜀᜅ᜔ ᜀᜆᜓᜅ᜔ ᜃᜆᜓᜆᜓᜀᜈ᜔ ᜃᜂᜊᜈ᜔ ᜐ ᜋᜅ ᜊᜄ᜔-ᜂᜅ᜔ ᜀᜄ᜔ᜑᜒᜋᜓᜀᜈ᜔᜶
+![image](https://user-images.githubusercontent.com/10474143/164574494-d9389f8d-d9f4-4150-9a1d-1cf4eb0ae570.png)
+
+
+# I am an active learner that likes to compute problems. I am interested in promoting culture using computing and engineering because I believe it brings people together. ᜄᜈᜑᜈ᜔ ᜈᜃᜓ ᜁᜎᜋ᜔ᜊᜓ ᜀᜅ᜔ ᜀᜆᜓᜅ᜔ ᜃᜆᜓᜆᜓᜀᜈ᜔ ᜃᜂᜊᜈ᜔ ᜐ ᜋᜅ ᜊᜄ᜔-ᜂᜅ᜔ ᜀᜄ᜔ᜑᜒᜋᜓᜀᜈ᜔᜶
 
 <!--
 **maxangelo987/maxangelo987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
