@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...  -->
 
-![image](https://user-images.githubusercontent.com/10474143/188557484-93c1d809-2f3b-4421-82c6-7a2dfd317f02.png)
+![image](https://user-images.githubusercontent.com/10474143/196084155-55df4990-808a-45e4-9f44-35ed741a48e7.png)
