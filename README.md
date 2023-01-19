@@ -85,4 +85,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...  -->
 
-![image](https://user-images.githubusercontent.com/10474143/196084155-55df4990-808a-45e4-9f44-35ed741a48e7.png)
+<a href="https://bicto.bohol.gov.ph/about-us/our-team/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/10474143/196084155-55df4990-808a-45e4-9f44-35ed741a48e7.png" alt="Example Image">
+</a>
