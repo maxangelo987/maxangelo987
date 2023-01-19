@@ -1,4 +1,5 @@
 <div align="center">
+<div align="center">
     <img src="https://media.tenor.com/Rro0tluiH1wAAAAj/cool-party-cat.gif" width="25" height="25"/>
     <img src="https://media.tenor.com/Rro0tluiH1wAAAAj/cool-party-cat.gif" width="25" height="25"/>
     <img src="https://media.tenor.com/Rro0tluiH1wAAAAj/cool-party-cat.gif" width="25" height="25"/>
@@ -88,3 +89,4 @@ Here are some ideas to get you started:
 <a href="https://bicto.bohol.gov.ph/about-us/our-team/" target="_blank">
   <img src="https://user-images.githubusercontent.com/10474143/196084155-55df4990-808a-45e4-9f44-35ed741a48e7.png" alt="Example Image">
 </a>
+</div>
