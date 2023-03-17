@@ -51,12 +51,4 @@ Here are some ideas to get you started:
 ### 🙏 Religion: Omnist
 ### ⚡ Fun fact: I love languages, programming and human languages
 
-<!--
-- 💬 Ask me about ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...  -->
-
-<a href="https://bicto.bohol.gov.ph/about-us/our-team/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/10474143/196084155-55df4990-808a-45e4-9f44-35ed741a48e7.png" alt="Example Image">
-</a>
 </div>
