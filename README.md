@@ -35,7 +35,7 @@
     <img src="https://media.tenor.com/Rro0tluiH1wAAAAj/cool-party-cat.gif" width="25" height="25"/>
 </div>
 
-# I am an active learner that likes to compute problems. I am interested in promoting culture using computing and engineering because I believe it brings people together. 
+# I am an active learner. I am interested in the integration of computing and engineering to everything. 
 ## ᜄᜈᜑᜈ᜔ ᜈᜃᜓ ᜁᜎᜋ᜔ᜊᜓ ᜀᜅ᜔ ᜀᜆᜓᜅ᜔ ᜃᜆᜓᜆᜓᜀᜈ᜔ ᜃᜂᜊᜈ᜔ ᜐ ᜋᜅ ᜊᜄ᜔-ᜂᜅ᜔ ᜀᜄ᜔ᜑᜒᜋᜓᜀᜈ᜔᜶
 
 <!--
