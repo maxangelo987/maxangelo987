@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on Computing + X Research and Development
 ### 🌱 I’m currently learning more in Computing
-### 👯 I’m looking to collaborate on Computing + X or XCResearches
+### 👯 I’m looking to collaborate on Computing + X or X + Computing Researches
 ### 😄 Pronouns: (He/Him) but sometimes a Robot 
 ### 🙏 Religion: Omnist
 ### ⚡ Fun fact: I love languages, programming, and human languages
