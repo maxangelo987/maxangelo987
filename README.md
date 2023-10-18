@@ -44,9 +44,9 @@
 Here are some ideas to get you started:
 -->
 
-### 🔭 I’m currently working on Research and Computing + X Development
-### 🌱 I’m currently learning in Computing and Engineering
-### 👯 I’m looking to collaborate on Computer Engineering, Computer Science, Information Systems, Software Engineering and Information Technology 
+### 🔭 I’m currently working on Computing + X Research and Development
+### 🌱 I’m currently learning more in Computing
+### 👯 I’m looking to collaborate on Computing + X or XCResearches
 ### 😄 Pronouns: (He/Him) but sometimes a Robot 
 ### 🙏 Religion: Omnist
 ### ⚡ Fun fact: I love languages, programming, and human languages
