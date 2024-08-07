@@ -53,6 +53,22 @@ Here are some ideas to get you started:
 
 </div>
 
+  
+</div>
+
+<div align = "center">
+  <a href="mailto:maxangelo.perin@bisu.edu.ph">
+    <img src = "https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="[https://www.linkedin.com/in/jun-cyric-shane-dela-torre-0b1041268/](https://www.linkedin.com/in/maxangelo987/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0075B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+<hr/>
+<br/>
+
 
 <h2 align="center">
    🚧 Languages-Frameworks-Tools 🚧 
