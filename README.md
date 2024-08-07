@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <br/>
 
 <h2 align="center">
-   🚧 Languages-Frameworks-Tools 🚧 
+   🖥️ Languages, Frameworks, and Tools 🖥️ 
 </h2>
 
 <br/>
