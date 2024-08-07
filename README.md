@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <a href="mailto:maxangelo.perin@bisu.edu.ph">
     <img src = "https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="[https://www.linkedin.com/in/maxangelo987/](https://www.linkedin.com/in/maxangelo987/)">
+  <a href="https://www.linkedin.com/in/maxangelo987/">
     <img src="https://img.shields.io/badge/LinkedIn-0075B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
