@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,dotnet,tensorflow,react,bootstrap,codeigniter"/>
+    <img src="https://skillicons.dev/icons?i=django,dotnet,tensorflow,react,bootstrap,devexpress,xamarin"/>
     <br/>
     <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,cs"/>
     <br/>
