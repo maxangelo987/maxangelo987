@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,dotnet,tensorflow,react,bootstrap"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,cs"/>
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,cs,mysql,firebase"/>
     <br/>
     <img src="https://skillicons.dev/icons?i=github,git,figma,vscode,pycharm,mysql,npm,postman,heroku,androidstudio"/>
   </a>
