@@ -38,6 +38,14 @@
 # I am an active learner. I am interested in the integration of computing + everything. 
 ## ᜄᜈᜑᜈ᜔ ᜈᜃᜓ ᜁᜎᜋ᜔ᜊᜓ ᜀᜅ᜔ ᜀᜆᜓᜅ᜔ ᜃᜆᜓᜆᜓᜀᜈ᜔ ᜃᜂᜊᜈ᜔ ᜐ ᜋᜅ ᜊᜄ᜔-ᜂᜅ᜔ ᜀᜄ᜔ᜑᜒᜋᜓᜀᜈ᜔᜶
 
+<div align = "center">
+  <a href="mailto:maxangelo.perin@bisu.edu.ph">
+    <img src = "https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/maxangelo987/">
+    <img src="https://img.shields.io/badge/LinkedIn-0075B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 <!--
 **maxangelo987/maxangelo987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -56,14 +64,7 @@ Here are some ideas to get you started:
   
 </div>
 
-<div align = "center">
-  <a href="mailto:maxangelo.perin@bisu.edu.ph">
-    <img src = "https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/maxangelo987/">
-    <img src="https://img.shields.io/badge/LinkedIn-0075B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+
 
 <br/><br/>
 <hr/>
