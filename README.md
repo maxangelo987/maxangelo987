@@ -35,9 +35,6 @@
     <img src="https://media.tenor.com/Rro0tluiH1wAAAAj/cool-party-cat.gif" width="25" height="25"/>
 </div>
 
-# I am an active learner. I am interested in the integration of computing + everything. 
-## ᜄᜈᜑᜈ᜔ ᜈᜃᜓ ᜁᜎᜋ᜔ᜊᜓ ᜀᜅ᜔ ᜀᜆᜓᜅ᜔ ᜃᜆᜓᜆᜓᜀᜈ᜔ ᜃᜂᜊᜈ᜔ ᜐ ᜋᜅ ᜊᜄ᜔-ᜂᜅ᜔ ᜀᜄ᜔ᜑᜒᜋᜓᜀᜈ᜔᜶
-
 <div align = "center">
   <a href="mailto:maxangelo.perin@bisu.edu.ph">
     <img src = "https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -46,6 +43,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0075B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+
+# I am an active learner. I am interested in the integration of computing + everything. 
+## ᜄᜈᜑᜈ᜔ ᜈᜃᜓ ᜁᜎᜋ᜔ᜊᜓ ᜀᜅ᜔ ᜀᜆᜓᜅ᜔ ᜃᜆᜓᜆᜓᜀᜈ᜔ ᜃᜂᜊᜈ᜔ ᜐ ᜋᜅ ᜊᜄ᜔-ᜂᜅ᜔ ᜀᜄ᜔ᜑᜒᜋᜓᜀᜈ᜔᜶
+
+
 <!--
 **maxangelo987/maxangelo987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
