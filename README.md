@@ -52,3 +52,36 @@ Here are some ideas to get you started:
 ### ⚡ Fun fact: I love languages, programming, and human languages
 
 </div>
+
+
+<h2 align="center">
+   🚧 Languages-Frameworks-Tools 🚧 
+</h2>
+
+<br/>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,dotnet,tensorflow,react,bootstrap,codeigniter"/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i,py,c,cpp,js,html,css,cs"/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=github,git,figma,vscode,pycharm,mysql,npm,postman"/>
+  </a>
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<h2 align="center">
+   🔰 Stats 🔰 
+</h2>
+
+<br/>
+<div align="center">
+  <img width=390 src="https://streak-stats.demolab.com/?user=maxangelo987&count_private=true&theme=vue-dark&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=maxangelo987&count_private=true&show_icons=true&theme=vue-dark&rank_icon=github"/>
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxangelo987&theme=vue-dark&hide_progress=true"/>
+</div>
