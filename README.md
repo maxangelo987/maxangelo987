@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 I’m currently working on Computing + X Research and Development
-### 🌱 I’m currently learning more in Computing
+### 🌱 I’m currently learning more about Computing
 ### 👯 I’m looking to collaborate on Computing + X or X + Computing Researches
 ### 😄 Pronouns: (He/Him) but sometimes a Robot 
 ### 🙏 Religion: Omnist
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <a href="mailto:maxangelo.perin@bisu.edu.ph">
     <img src = "https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="[https://www.linkedin.com/in/jun-cyric-shane-dela-torre-0b1041268/](https://www.linkedin.com/in/maxangelo987/)">
+  <a href="[https://www.linkedin.com/in/maxangelo987/](https://www.linkedin.com/in/maxangelo987/)">
     <img src="https://img.shields.io/badge/LinkedIn-0075B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
