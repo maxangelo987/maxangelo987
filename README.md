@@ -65,10 +65,9 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<br/>
+<br/><br/>
 <hr/>
 <br/>
-
 
 <h2 align="center">
    🚧 Languages-Frameworks-Tools 🚧 
@@ -76,12 +75,13 @@ Here are some ideas to get you started:
 
 <br/>
 
-<div align = "center">
-  <a href="mailto:maxangelo.perin@bisu.edu.ph">
-    <img src = "https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/maxangelo987/">
-    <img src="https://img.shields.io/badge/LinkedIn-0075B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,dotnet,tensorflow,react,bootstrap,codeigniter"/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,cs"/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=github,git,figma,vscode,pycharm,mysql,npm,postman"/>
   </a>
 </div>
 
