@@ -73,7 +73,6 @@ Here are some ideas to get you started:
 
 <br/>
 <div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=maxangelo987&count_private=true&theme=vue-dark&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=maxangelo987&count_private=true&show_icons=true&theme=vue-dark&rank_icon=github"/>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxangelo987&theme=vue-dark&hide_progress=true"/>
