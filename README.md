@@ -1,7 +1,6 @@
 <div align="center">
 
 
-![image](https://user-images.githubusercontent.com/10474143/225820519-36aad7ef-a58a-403e-95ee-cc95b73624c0.png)
 ![PH](https://github.com/user-attachments/assets/e348146b-6f2e-4d5d-b367-8cddc503b60d)
 
 <div align="center">
