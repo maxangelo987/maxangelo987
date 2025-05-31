@@ -19,7 +19,7 @@
   </a>
 </div>
 
-# I am an active learner. I am interested in the integration of computing + everything. 
+# I am an active learner. I am interested in the integration of computing across various disciplines, aligning with the ACM Computing + X paradigm. 
 ## ᜄᜈᜑᜈ᜔ ᜈᜃᜓ ᜁᜎᜋ᜔ᜊᜓ ᜀᜅ᜔ ᜀᜆᜓᜅ᜔ ᜃᜆᜓᜆᜓᜀᜈ᜔ ᜃᜂᜊᜈ᜔ ᜐ ᜋᜅ ᜊᜄ᜔-ᜂᜅ᜔ ᜀᜄ᜔ᜑᜒᜋᜓᜀᜈ᜔᜶
 
 
