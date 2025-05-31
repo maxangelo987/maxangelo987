@@ -1,8 +1,5 @@
 <div align="center">
 
-
-![PH](https://github.com/user-attachments/assets/e348146b-6f2e-4d5d-b367-8cddc503b60d)
-
 <div align="center">
     <img src="https://media.tenor.com/Rro0tluiH1wAAAAj/cool-party-cat.gif" width="25" height="25"/>
     <img src="https://media.tenor.com/Rro0tluiH1wAAAAj/cool-party-cat.gif" width="25" height="25"/>
