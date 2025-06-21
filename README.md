@@ -50,7 +50,7 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🧠 **eBaybayMo** | eBaybayMo is a community-driven app that uses technology to bring Baybayin characters to life, connecting tattoo artists, t-shirt designers, scholars, and enthusiasts with the rich heritage of the Filipino script. | [Visit Site](https://ebaybaymo-baadc71f1e3f.herokuapp.com/) |
+| 🇵🇭 **eBaybayMo** | eBaybayMo is a community-driven app that uses technology to bring Baybayin characters to life, connecting tattoo artists, t-shirt designers, scholars, and enthusiasts with the rich heritage of the Filipino script. | [Visit Site](https://ebaybaymo-baadc71f1e3f.herokuapp.com/) |
 | 💧 **LISA** | LISA, the Localized Irrigation Support and Advisory System, is a specialized module of Project MAKASA, designed to enhance AI-driven irrigation decision-making. | [Visit Site](https://lisaweb-1dbdd5ef337c.herokuapp.com/) |
 | 📊 **BARMM-HRS Dashboard** | Bangsamoro Autonomous Region of Muslim Mindanao Baseline Human Rights Survey Explore Survey Data visualization dashboard for BARMM Human Resource Services. | [Visit Site](https://barmmhrsdashboard-60b5362e7bc8.herokuapp.com/) |
 
