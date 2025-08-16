@@ -66,4 +66,4 @@
 
 ---
 
-> *“I believe in code with culture and systems with soul.”* — Max Angelo Perin
+> *“For it’s not just systems that I refine—It’s lives I uplift, one code at a time.”* — Perin, M. A. D. (2025). Still, I hold on. In NATIONAL Featured Creative Works SIXIR (Alpha) Literary Folio. Pinagpala Publishing Services Book Publisher. https://doi.org/10.5281/zenodo.15287650
