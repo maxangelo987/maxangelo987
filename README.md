@@ -5,7 +5,7 @@
   <img src="https://media.tenor.com/Rro0tluiH1wAAAAj/cool-party-cat.gif" width="30" height="30"/>
   <img src="https://media.tenor.com/Rro0tluiH1wAAAAj/cool-party-cat.gif" width="30" height="30"/>
 
-  <h1>Hi, I'm Max Angelo D. Perin 👨‍💻</h1>
+  <h1>Hi, I'm Max Angelo Dapitilla Perin 👨‍💻</h1>
   <h3>Integrating Computing Across Disciplines — ACM Computing + X 🌐</h3>
   <p>ᜄᜈᜑᜈ᜔ ᜈᜃᜓ ᜁᜎᜋ᜔ᜊᜓ ᜀᜅ᜔ ᜀᜆᜓᜅ᜔ ᜃᜆᜓᜆᜓᜀᜈ᜔ ᜃᜂᜊᜈ᜔ ᜐ ᜋᜅ ᜊᜄ᜔-ᜂᜅ᜔ ᜀᜄ᜔ᜑᜒᜋᜓᜀᜈ᜔᜶</p>
 
