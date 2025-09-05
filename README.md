@@ -32,17 +32,50 @@
 
 ---
 
-### 🛠️ Languages, Frameworks, and Tools
+### 🧰 Tech Stack
 
-<div align="center">
+#### 🎨 Frontend
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,dotnet,tensorflow,react,bootstrap" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,cs,mysql,firebase" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=github,git,figma,vscode,pycharm,npm,postman,heroku,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,html,css,js" />
   </a>
-</div>
+</p>
+
+#### 📱 Mobile (React Native)
+<p align="left">
+  <!-- React Native via React + Expo + Android Studio toolchain -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,androidstudio" />
+  </a>
+</p>
+
+#### 🧪 Backend / APIs
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet" />
+  </a>
+</p>
+
+#### 🧠 AI / ML & Data
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  </a>
+</p>
+
+#### 🗄️ Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite" />
+  </a>
+</p>
+
+#### 🛠️ DevOps & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,heroku,docker,vscode,pycharm,postman,npm,figma" />
+  </a>
+</p>
 
 ---
 
@@ -50,9 +83,11 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🇵🇭 **eBaybayMo** | eBaybayMo is a community-driven app that uses technology to bring Baybayin characters to life, connecting tattoo artists, t-shirt designers, scholars, and enthusiasts with the rich heritage of the Filipino script. | [Visit Site](https://ebaybaymo-baadc71f1e3f.herokuapp.com/) |
-| 💧 **LISA** | LISA, the Localized Irrigation Support and Advisory System, is a specialized module of Project MAKASA, designed to enhance AI-driven irrigation decision-making. | [Visit Site](https://lisaweb-1dbdd5ef337c.herokuapp.com/) |
-| 📊 **BARMM-HRS Dashboard** | Bangsamoro Autonomous Region of Muslim Mindanao Baseline Human Rights Survey Explore Survey Data visualization dashboard for BARMM Human Resource Services. | [Visit Site](https://barmmhrsdashboard-60b5362e7bc8.herokuapp.com/) |
+| 🇵🇭 **eBaybayMo** | Community-driven app that brings Baybayin characters to life, connecting artists, designers, scholars, and enthusiasts with Filipino script heritage. | [Visit Site](https://ebaybaymo-baadc71f1e3f.herokuapp.com/) |
+| 💧 **LISA** | Localized Irrigation Support & Advisory System — a Project MAKASA module for AI-driven irrigation decision-making. | [Visit Site](https://lisaweb-1dbdd5ef337c.herokuapp.com/) |
+| 📊 **BARMM-HRS Dashboard** | Data visualization dashboard for the BARMM Human Rights Survey baseline. | [Visit Site](https://barmmhrsdashboard-60b5362e7bc8.herokuapp.com/) |
+| 🌾 **Project M.A.K.A.S.A. Hub** | Program hub for Modern, Adaptive Knowledge in Agriculture, Science, and Arts — resources, demos, and links. | [Visit Site](https://projectmakasa-1289e77a1d6a.herokuapp.com/) |
+| 🏫 **BISU CTech Research & Publications** | Showcase/portal for College of Technology research outputs and publications. | [Visit Site](https://bisubilarctech-0adba2bc1c57.herokuapp.com/Ctech) |
 
 ---
 
