@@ -1,23 +1,22 @@
+<!-- Hero Banner (dark/light aware) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:22d3ee&text=Max%20Angelo%20D.%20Perin&desc=Integrating%20Computing%20Across%20Disciplines%20%E2%80%94%20ACM%20Computing%20%2B%20X&descAlignY=60&fontColor=ffffff&fontAlign=50&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f59e0b,100:ef4444&text=Max%20Angelo%20D.%20Perin&desc=Integrating%20Computing%20Across%20Disciplines%20%E2%80%94%20ACM%20Computing%20%2B%20X&descAlignY=60&fontColor=111827&fontAlign=50&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</picture>
+
 <div align="center">
-  
-  <img src="https://media.tenor.com/Rro0tluiH1wAAAAj/cool-party-cat.gif" width="30" height="30"/>
-  <img src="https://media.tenor.com/Rro0tluiH1wAAAAj/cool-party-cat.gif" width="30" height="30"/>
-  <img src="https://media.tenor.com/Rro0tluiH1wAAAAj/cool-party-cat.gif" width="30" height="30"/>
-  <img src="https://media.tenor.com/Rro0tluiH1wAAAAj/cool-party-cat.gif" width="30" height="30"/>
-
-  <h1>Hi, I'm Max Angelo Dapitilla Perin 👨‍💻</h1>
-  <h3>Integrating Computing Across Disciplines — ACM Computing + X 🌐</h3>
-  <p>ᜄᜈᜑᜈ᜔ ᜈᜃᜓ ᜁᜎᜋ᜔ᜊᜓ ᜀᜅ᜔ ᜀᜆᜓᜅ᜔ ᜃᜆᜓᜆᜓᜀᜈ᜔ ᜃᜂᜊᜈ᜔ ᜐ ᜋᜅ ᜊᜄ᜔-ᜂᜅ᜔ ᜀᜄ᜔ᜑᜒᜋᜓᜀᜈ᜔᜶</p>
-
   <br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=900&lines=Life+has+its+0s+and+1s%E2%80%94moments+of+struggle+and+triumph.+Embrace+them+both;Computing+Enthusiast;Computing+%2BX+for+Impact" alt="typing animation" />
 
+  
+  <p>ᜄᜈᜑᜈ᜔ ᜈᜃᜓ ᜁᜎᜋ᜔ᜊᜓ ᜀᜅ᜔ ᜀᜆᜓᜅ᜔ ᜃᜆᜓᜆᜓᜀᜈ᜔ ᜃᜂᜊᜈ᜔ ᜐ ᜋᜅ ᜊᜄ᜔-ᜂᜅ᜔ ᜀᜄ᜔ᜑᜒᜋᜓᜀᜈ᜔᜶</p>
+  
   <a href="mailto:maxangelo.perin@bisu.edu.ph">
     <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/maxangelo987/">
     <img src="https://img.shields.io/badge/LinkedIn-0075B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
 </div>
 
 ---
@@ -43,7 +42,7 @@
 
 #### 📱 Mobile (React Native)
 <p align="left">
-  <!-- React Native via React + Expo + Android Studio toolchain -->
+  <!-- React Native via React + Android Studio toolchain -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,androidstudio" />
   </a>
@@ -94,11 +93,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=maxangelo987&count_private=true&show_icons=true&theme=vue-dark&rank_icon=github"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=maxangelo987&count_private=true&show_icons=true&theme=vue-dark&rank_icon=github" alt="GitHub stats"/>
   <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxangelo987&theme=vue-dark&hide_progress=true"/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxangelo987&theme=vue-dark&hide_progress=true" alt="Top languages"/>
 </div>
 
 ---
 
 > *“For it’s not just systems that I refine—It’s lives I uplift, one code at a time.”* — Perin, M. A. D. (2025). Still, I hold on. In NATIONAL Featured Creative Works SIXIR (Alpha) Literary Folio. Pinagpala Publishing Services Book Publisher. https://www.pinagpalapublishing.com/publications/book-vii_sixir-alpha-a-literary-folio-book#h.6fqsrpd3bsqo
+
+<!-- Wavy Footer -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0ea5e9,100:22d3ee" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:f59e0b,100:ef4444" />
+</picture>
