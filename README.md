@@ -1,7 +1,7 @@
 <!-- Hero Banner (dark/light aware) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:22d3ee&text=Max%20Angelo%20D.%20Perin&desc=Integrating%20Computing%20Across%20Disciplines%20%E2%80%94%20ACM%20Computing%20%2B%20X&descAlignY=60&fontColor=ffffff&fontAlign=50&fontSize=40&fontAlignY=35&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f59e0b,100:ef4444&text=Max%20Angelo%20D.%20Perin&desc=Integrating%20Computing%20Across%20Disciplines%20%E2%80%94%20ACM%20Computing%20%2B%20X&descAlignY=60&fontColor=111827&fontAlign=50&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f59e0b,100:ef4444&text=Max%20Angelo%20Dapitila%20Perin&desc=Integrating%20Computing%20Across%20Disciplines%20%E2%80%94%20ACM%20Computing%20%2B%20X&descAlignY=60&fontColor=111827&fontAlign=50&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </picture>
 
 <div align="center">
