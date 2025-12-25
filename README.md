@@ -92,13 +92,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=maxangelo987&count_private=true&show_icons=true&theme=vue-dark&rank_icon=github" alt="GitHub stats"/>
-  <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxangelo987&theme=vue-dark&hide_progress=true" alt="Top languages"/>
-</div>
 
 ---
 
