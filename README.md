@@ -6,6 +6,8 @@
 
 <div align="center">
   <br/>
+  <img width="1638" height="801" alt="image" src="https://github.com/user-attachments/assets/49471d9f-f198-4947-99d3-30f3c9dd18dc" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=900&lines=Life+has+its+0s+and+1s%E2%80%94moments+of+struggle+and+triumph.+Embrace+them+both;Computing+Enthusiast;Computing+%2BX+for+Impact" alt="typing animation" />
 
   
