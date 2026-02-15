@@ -65,6 +65,12 @@
   </a>
 </p>
 
+#### 🤖 GenAI Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-Anthropic-111827?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-xAI-111827?style=for-the-badge&logo=x&logoColor=white" />
+</p>
+
 #### 🗄️ Databases
 <p align="left">
   <a href="https://skillicons.dev">
