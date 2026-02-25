@@ -87,12 +87,12 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🇵🇭 **eBaybayMo** | Community-driven app that brings Baybayin characters to life, connecting artists, designers, scholars, and enthusiasts with Filipino script heritage. | [Visit Site](https://ebaybaymo-baadc71f1e3f.herokuapp.com/) |
+| 🇵🇭 **eBaybayMo** | Community-driven app that brings Baybayin characters to life, connecting artists, designers, scholars, and enthusiasts with Filipino script heritage. | [Visit Site](https://ebaybaymo.bisubilar.org/) |
 | 💧 **LISA** | Localized Irrigation Support & Advisory System — a Project MAKASA module for AI-driven irrigation decision-making. | [Visit Site](https://lisaweb-1dbdd5ef337c.herokuapp.com/) |
 | 📊 **BARMM-HRS Dashboard** | Data visualization dashboard for the BARMM Human Rights Survey baseline. | [Visit Site](https://barmmhrsdashboard-60b5362e7bc8.herokuapp.com/) |
 | 🌾 **Project M.A.K.A.S.A. Hub** | Program hub for Modeling Agricultural Knowledge using AI for Sustainable Agriculture — resources, demos, and links. | [Visit Site](https://projectmakasa-1289e77a1d6a.herokuapp.com/) |
 | 🏫 **BISU CTech Research & Publications** | Showcase/portal for College of Technology research outputs and publications. | [Visit Site](https://bisubilarctech-0adba2bc1c57.herokuapp.com/Ctech) |
-| 🕒 **DTRx** | Digital Daily Time Record portal for log reconciliation and service-credit support. | [Visit Site](https://dtrxweb-c60b5890509c.herokuapp.com/) |
+| 🕒 **DTRx** | Digital Daily Time Record portal for log reconciliation and service-credit support. | [Visit Site](https://dtrx.bisubilar.org/) |
 | 🎟️ **iPASS** | iPass Assesment Tool | [Visit Site](https://ipass-eec367f2994e.herokuapp.com/) |
 
 ---
