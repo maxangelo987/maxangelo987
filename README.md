@@ -94,7 +94,7 @@
 | 🏫 **BISU CTech Research & Publications** | Showcase/portal for College of Technology research outputs and publications. | ![DevOps](https://img.shields.io/badge/DevOps-0ea5e9?style=flat-square) ![Backend](https://img.shields.io/badge/Backend-22c55e?style=flat-square) | [Visit Site](https://ctech.bisubilar.org/) |
 | 🕒 **DTRx** | Digital Daily Time Record portal for log reconciliation and service-credit support. | ![DevOps](https://img.shields.io/badge/DevOps-0ea5e9?style=flat-square) ![Backend](https://img.shields.io/badge/Backend-22c55e?style=flat-square) | [Visit Site](https://dtrx.bisubilar.org/) |
 | 🎟️ **iPASS** | iPass Assessment Tool — digital evaluation and scoring platform for institutional use. | ![DevOps](https://img.shields.io/badge/DevOps-0ea5e9?style=flat-square) ![Backend](https://img.shields.io/badge/Backend-22c55e?style=flat-square) | [Visit Site](https://ipass.bisubilar.org/) |
-| 🍫 **BCIIS** | Bohol Cacao Integrated Information System — platform supporting cacao farmers and stakeholders in Bohol through data management, monitoring, and agricultural insights. | ![DevOps](https://img.shields.io/badge/DevOps-0ea5e9?style=flat-square) ![Backend](https://img.shields.io/badge/Backend-22c55e?style=flat-square) | [Visit Site](https://bciis.bisubilar.org/) |
+| 🍫 **BCIIS** | Bohol Cacao Industry Information System — platform supporting cacao farmers and stakeholders in Bohol through data management, monitoring, and agricultural insights. | ![DevOps](https://img.shields.io/badge/DevOps-0ea5e9?style=flat-square) ![Backend](https://img.shields.io/badge/Backend-22c55e?style=flat-square) | [Visit Site](https://bciis.bisubilar.org/) |
 
 ---
 
