@@ -85,7 +85,16 @@
 
 ### 🚀 Featured Projects
 
-| 🎟️ **iPASS** | iPass Assesment Tool | [Visit Site](https://ipass.bisubilar.org/) |
+| Project | Description | My Role | Link |
+|--------|-------------|---------|------|
+| 🇵🇭 **eBaybayMo** | Community-driven app that brings Baybayin characters to life, connecting artists, designers, scholars, and enthusiasts with Filipino script heritage. | ![DevOps](https://img.shields.io/badge/DevOps-0ea5e9?style=flat-square) ![Backend](https://img.shields.io/badge/Backend-22c55e?style=flat-square) ![Frontend](https://img.shields.io/badge/Frontend-a855f7?style=flat-square) ![ML](https://img.shields.io/badge/ML-f97316?style=flat-square) | [Visit Site](https://ebaybaymo.bisubilar.org/) |
+| 💧 **LISA** | Localized Irrigation Support & Advisory System — a Project MAKASA module for AI-driven irrigation decision-making. | ![DevOps](https://img.shields.io/badge/DevOps-0ea5e9?style=flat-square) ![Backend](https://img.shields.io/badge/Backend-22c55e?style=flat-square) ![Frontend](https://img.shields.io/badge/Frontend-a855f7?style=flat-square) ![ML](https://img.shields.io/badge/ML-f97316?style=flat-square) | [Visit Site](https://lisa.bisubilar.org/) |
+| 📊 **BARMM-HRS Dashboard** | Data visualization dashboard for the BARMM Human Rights Survey baseline. | ![DevOps](https://img.shields.io/badge/DevOps-0ea5e9?style=flat-square) ![Backend](https://img.shields.io/badge/Backend-22c55e?style=flat-square) | [Visit Site](https://barmmhrs.bisubilar.org/) |
+| 🌾 **Project M.A.K.A.S.A. Hub** | Program hub for Modeling Agricultural Knowledge using AI for Sustainable Agriculture — resources, demos, and links. | ![DevOps](https://img.shields.io/badge/DevOps-0ea5e9?style=flat-square) ![Backend](https://img.shields.io/badge/Backend-22c55e?style=flat-square) ![Frontend](https://img.shields.io/badge/Frontend-a855f7?style=flat-square) | [Visit Site](https://projectmakasa.bisubilar.org/) |
+| 🏫 **BISU CTech Research & Publications** | Showcase/portal for College of Technology research outputs and publications. | ![DevOps](https://img.shields.io/badge/DevOps-0ea5e9?style=flat-square) ![Backend](https://img.shields.io/badge/Backend-22c55e?style=flat-square) | [Visit Site](https://ctech.bisubilar.org/) |
+| 🕒 **DTRx** | Digital Daily Time Record portal for log reconciliation and service-credit support. | ![DevOps](https://img.shields.io/badge/DevOps-0ea5e9?style=flat-square) ![Backend](https://img.shields.io/badge/Backend-22c55e?style=flat-square) | [Visit Site](https://dtrx.bisubilar.org/) |
+| 🎟️ **iPASS** | iPass Assessment Tool — digital evaluation and scoring platform for institutional use. | ![DevOps](https://img.shields.io/badge/DevOps-0ea5e9?style=flat-square) ![Backend](https://img.shields.io/badge/Backend-22c55e?style=flat-square) | [Visit Site](https://ipass.bisubilar.org/) |
+| 🍫 **BCIIS** | Bohol Cacao Integrated Information System — platform supporting cacao farmers and stakeholders in Bohol through data management, monitoring, and agricultural insights. | ![DevOps](https://img.shields.io/badge/DevOps-0ea5e9?style=flat-square) ![Backend](https://img.shields.io/badge/Backend-22c55e?style=flat-square) | [Visit Site](https://bciis.bisubilar.org/) |
 
 ---
 
