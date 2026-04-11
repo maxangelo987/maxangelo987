@@ -47,6 +47,12 @@
   </a>
 </p>
 
+#### 🖥️ Desktop Development
+<p align="left">
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white" />
+</p>
+
 #### 🧪 Backend / APIs
 <p align="left">
   <a href="https://skillicons.dev">
