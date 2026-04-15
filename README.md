@@ -90,7 +90,6 @@
 ---
 
 ### 🚀 Featured Projects
-### 🚀 Featured Projects
 
 | Project | Description | My Role | Link |
 |--------|-------------|---------|------|
