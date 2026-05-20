@@ -26,6 +26,9 @@
 - 🌱 I’m diving deeper into **AI, Intelligent Systems, and Web Tech**
 - 👯 I’m open to collaboration on **interdisciplinary computing projects**
 - 🙏 Religion: **Omnist**
+  
+  <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/2de67d53-778b-46b1-89ad-d954b7bf78ae" />
+  
 - ⚡ Fun fact: I love languages – both **human and machine** 🤖
 
 ---
