@@ -92,10 +92,10 @@ I designed **MAKASAV2** as a mythology-inspired network of **35 named, task-spec
 | 04 | **⚡ Ribun-linti** | Software engineering, GitHub, code reviews, security checks and deployments |
 | 05 | **📋 Tibang-Tibang** | Administration, institutional documentation and compliance |
 | 06 | **🌾 Lalaon** | Extension services, outreach and community-centered projects |
-| 07 | **🌙 Libulan** | MAEd-ELT academic and learning support |
+| 07 | **🌙 Libulan** | Language education, applied linguistics and academic learning support |
 | 08 | **☀️ Liadlao** | Professional development, graduate studies and faculty advancement |
 | 09 | **🌊 Magwayen** | External academic support and collaboration |
-| 10 | **🤖 Sappia** | Bohol AI Club, accessible AI research and community learning |
+| 10 | **🤖 Sappia** | Applied AI research, model evaluation, accessible computing and community learning |
 | 11 | **📅 Bangun-bangun** | Calendar management, deadlines and follow-ups (formerly Bulawan) |
 | 12 | **💰 Burigadang Pada** | Finance, grants, budgets and resource planning |
 | 13 | **✅ Nagmalitong Yawa** | Independent quality assurance, verification and risk reviews |
