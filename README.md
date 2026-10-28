@@ -73,6 +73,75 @@ Areas of interest include:
 
 ---
 
+## 🧠 MAKASAV2 — My AI Assistant Network
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MAKASAV2-35%20AI%20Assistant%20Roles-8b5cf6?style=for-the-badge" alt="MAKASAV2: 35 AI assistant roles" />
+  <img src="https://img.shields.io/badge/Coordination-Tungkung%20Langit-2563eb?style=for-the-badge" alt="Coordinated by Tungkung Langit" />
+</p>
+
+I designed **MAKASAV2** as a mythology-inspired network of **35 named, task-specialized AI assistant roles** to support teaching, research, software engineering, innovation, extension, academic work, and everyday coordination. Each role has a defined scope, with evidence-based reviews and human oversight.
+
+### 🌟 Core Assistant Team
+
+| # | Agent | Specialization |
+|:--:|---|---|
+| 01 | **☁️ Tungkung Langit** | Master tracker, coordination, task ownership and cross-agent handoffs |
+| 02 | **📚 Alunsina** | Teaching, instructional material creation, assessments and student-paper reviews |
+| 03 | **🔬 Lisuga** | Research, innovation, publications and creative-works oversight |
+| 04 | **⚡ Ribun-linti** | Software engineering, GitHub, code reviews, security checks and deployments |
+| 05 | **📋 Tibang-Tibang** | Administration, institutional documentation and compliance |
+| 06 | **🌾 Lalaon** | Extension services, outreach and community-centered projects |
+| 07 | **🌙 Libulan** | MAEd-ELT academic and learning support |
+| 08 | **☀️ Liadlao** | Professional development, graduate studies and faculty advancement |
+| 09 | **🌊 Magwayen** | External academic support and collaboration |
+| 10 | **🤖 Sappia** | Bohol AI Club, accessible AI research and community learning |
+| 11 | **📅 Bangun-bangun** | Calendar management, deadlines and follow-ups (formerly Bulawan) |
+| 12 | **💰 Burigadang Pada** | Finance, grants, budgets and resource planning |
+| 13 | **✅ Nagmalitong Yawa** | Independent quality assurance, verification and risk reviews |
+
+<details>
+<summary><strong>🛡️ Governance, Security, Evidence & Community Specialists (#14–23)</strong></summary>
+
+| # | Agent | Specialization |
+|:--:|---|---|
+| 14 | **Sidapa** | Evidence lifecycle, documentation provenance and archival readiness |
+| 15 | **Kaptan** | Strategy, priorities and portfolio decisions |
+| 16 | **Inaginid** | Information security, cybersecurity risk and incident triage |
+| 17 | **Balangaw** | Cybersecurity education and awareness |
+| 18 | **Munsad Burulakaw** | Responsible AI governance and safeguards |
+| 19 | **Panlinugon** | Disaster preparedness and institutional resilience |
+| 20 | **Luyong Baybay** | Environmental sustainability and ecological concerns |
+| 21 | **Sumpoy** | Verified workflow transitions and cross-team handoffs |
+| 22 | **Bulawanon** | Procurement, equipment and asset stewardship |
+| 23 | **Makabosog** | Student welfare and scholarship guidance |
+
+</details>
+
+<details>
+<summary><strong>🎓 Academic, Research, Creative & Personal Specialists (#24–35)</strong></summary>
+
+| # | Agent | Specialization |
+|:--:|---|---|
+| 24 | **Mayari** | Academic programs, curricula and teaching coordination |
+| 25 | **Hanan** | Instructional design and learning-material support under Alunsina |
+| 26 | **Lumawig** | Thesis and capstone mentoring, manuscript assessment |
+| 27 | **Tala** | Research portfolio and journal/conference submission tracking |
+| 28 | **Idianali** | Intellectual property, copyrights, patents and technology transfer |
+| 29 | **Gugurang** | Funded research, grants, milestones and deliverables |
+| 30 | **Dumakulem** | Technology applications, systems and digital portfolio oversight |
+| 31 | **Lakapati** | Agricultural research, field validation and sustainable-agriculture AI |
+| 32 | **Amihan** | Travel, itineraries and external engagements |
+| 33 | **Mariang Makiling** | Comparative religion, philosophy, mythology and culture |
+| 34 | **Haliya** | Personal language learning and linguistic practice |
+| 35 | **Sidaya** | Creative writing, poetry, fiction, scripts and literary editing (under Lisuga) |
+
+</details>
+
+> **How this works:** These are *named AI workflow roles/personas*, not 35 independently deployed or continuously running bots. Their names and symbolic assignments draw inspiration from Philippine mythology and literature; some role mappings and names are modern creative adaptations. Decisions, verification, and approvals remain human-led.
+
+---
+
 ## Technology Toolkit
 
 <p align="center">
