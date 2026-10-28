@@ -1,6 +1,6 @@
 <div align="center">
   <br/>
-  <img width="1638" height="801" alt="Max Angelo D. Perin profile banner" src="https://github.com/user-attachments/assets/5c36e1ce-54d3-4c6d-aaf8-97fd4cc3e000" />
+  <img width="1000" height="489" alt="Animated DEADLINE banner — silver to black to pink neon glow" src="assets/deadline-pink-animated.gif" />
 
   <h1>Max Angelo D. Perin</h1>
   <h3>Computer Science Faculty · AI Researcher · R&amp;D Project Leader · Software Developer</h3>
