@@ -76,11 +76,11 @@ Areas of interest include:
 ## 🧠 MAKASAV2 — My AI Assistant Network
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MAKASAV2-35%20AI%20Assistant%20Roles-8b5cf6?style=for-the-badge" alt="MAKASAV2: 35 AI assistant roles" />
+  <img src="https://img.shields.io/badge/MAKASAV2-37%20AI%20Assistant%20Roles-8b5cf6?style=for-the-badge" alt="MAKASAV2: 37 AI assistant roles" />
   <img src="https://img.shields.io/badge/Coordination-Tungkung%20Langit-2563eb?style=for-the-badge" alt="Coordinated by Tungkung Langit" />
 </p>
 
-I designed **MAKASAV2** as a mythology-inspired network of **35 named, task-specialized AI assistant roles** to support teaching, research, software engineering, innovation, extension, academic work, and everyday coordination. Each role has a defined scope, with evidence-based reviews and human oversight. The agent names below use **modern phonetic Baybayin** as the primary display, with Latin spellings retained for clarity.
+I designed **MAKASAV2** as a mythology-inspired network of **37 named, task-specialized AI assistant roles** to support teaching, research, software engineering, innovation, extension, academic work, and everyday coordination. Each role has a defined scope, with evidence-based reviews and human oversight. Philippine-inspired agent names use **modern phonetic Baybayin** as the primary display, with Latin spellings for clarity. **Tin Hau** retains the local Traditional Chinese script (**天后**).
 
 ### 🌟 Core Assistant Team
 
@@ -138,7 +138,17 @@ I designed **MAKASAV2** as a mythology-inspired network of **35 named, task-spec
 
 </details>
 
-> **How this works:** These are *named AI workflow roles/personas*, not 35 independently deployed or continuously running bots. Their names and symbolic assignments draw inspiration from Philippine mythology and literature; some role mappings and names are modern creative adaptations. Decisions, verification, and approvals remain human-led.
+<details>
+<summary><strong>🌏 Regional Guidance & Digital Archives (#36–37)</strong></summary>
+
+| # | Agent | Specialization |
+|:--:|---|---|
+| 36 | **🌊 天后**<br><sub>Tin Hau</sub> | Hong Kong local guidance: Cantonese, public transport, routes, fares, attractions, cultural context and travel-booking cross-checks |
+| 37 | **🗂️ ᜀᜈᜄᜓᜎᜌ᜔**<br><sub>Anagolay</sub> | Google Drive organization, digital archives, file inventory, folder structure and document retrieval |
+
+</details>
+
+> **How this works:** These are *named AI workflow roles/personas*, not 35 independently deployed or continuously running bots. Their names and symbolic assignments draw inspiration from Philippine and regional mythologies and literature; some role mappings and names are modern creative adaptations. Decisions, verification, and approvals remain human-led.
 
 ---
 
