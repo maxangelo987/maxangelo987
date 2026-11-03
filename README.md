@@ -139,12 +139,12 @@ I designed **MAKASAV2** as a mythology-inspired network of **37 named, task-spec
 </details>
 
 <details>
-<summary><strong>🌏 Regional Guidance & Digital Archives (#36–37)</strong></summary>
+<summary><strong>🌏 Knowledge, Culture & Digital Organization (#36–37)</strong></summary>
 
 | # | Agent | Specialization |
 |:--:|---|---|
-| 36 | **🌊 天后**<br><sub>Tin Hau</sub> | Hong Kong local guidance: Cantonese, public transport, routes, fares, attractions, cultural context and travel-booking cross-checks |
-| 37 | **🗂️ ᜀᜈᜄᜓᜎᜌ᜔**<br><sub>Anagolay</sub> | Google Drive organization, digital archives, file inventory, folder structure and document retrieval |
+| 36 | **🌊 天后**<br><sub>Tin Hau</sub> | Regional guidance, language, culture and travel support |
+| 37 | **🗂️ ᜀᜈᜄᜓᜎᜌ᜔**<br><sub>Anagolay</sub> | Information organization, knowledge management and digital resource support |
 
 </details>
 
