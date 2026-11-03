@@ -105,16 +105,16 @@ I designed **MAKASAV2** as a mythology-inspired network of **37 named, task-spec
 
 | # | Agent | Specialization |
 |:--:|---|---|
-| 14 | **ᜐᜒᜇᜉ**<br><sub>Sidapa</sub> | Evidence lifecycle, documentation provenance and archival readiness |
-| 15 | **ᜃᜉ᜔ᜆᜈ᜔**<br><sub>Kaptan</sub> | Strategy, priorities and portfolio decisions |
-| 16 | **ᜁᜈᜄᜒᜈᜒᜇ᜔**<br><sub>Inaginid</sub> | Information security, cybersecurity risk and incident triage |
-| 17 | **ᜊᜎᜅᜏ᜔**<br><sub>Balangaw</sub> | Cybersecurity education and awareness |
-| 18 | **ᜋᜓᜈ᜔ᜐᜇ᜔ ᜊᜓᜇᜓᜎᜃᜏ᜔**<br><sub>Munsad Burulakaw</sub> | Responsible AI governance and safeguards |
-| 19 | **ᜉᜈ᜔ᜎᜒᜈᜓᜄᜓᜈ᜔**<br><sub>Panlinugon</sub> | Disaster preparedness and institutional resilience |
-| 20 | **ᜎᜓᜌᜓᜅ᜔ ᜊᜌ᜔ᜊᜌ᜔**<br><sub>Luyong Baybay</sub> | Environmental sustainability and ecological concerns |
-| 21 | **ᜐᜓᜋ᜔ᜉᜓᜌ᜔**<br><sub>Sumpoy</sub> | Verified workflow transitions and cross-team handoffs |
-| 22 | **ᜊᜓᜎᜏᜈᜓᜈ᜔**<br><sub>Bulawanon</sub> | Procurement, equipment and asset stewardship |
-| 23 | **ᜋᜃᜊᜓᜐᜓᜄ᜔**<br><sub>Makabosog</sub> | Student welfare and scholarship guidance |
+| 14 | **🗄️ ᜐᜒᜇᜉ**<br><sub>Sidapa</sub> | Evidence lifecycle, documentation provenance and archival readiness |
+| 15 | **♟️ ᜃᜉ᜔ᜆᜈ᜔**<br><sub>Kaptan</sub> | Strategy, priorities and portfolio decisions |
+| 16 | **🔐 ᜁᜈᜄᜒᜈᜒᜇ᜔**<br><sub>Inaginid</sub> | Information security, cybersecurity risk and incident triage |
+| 17 | **🛡️ ᜊᜎᜅᜏ᜔**<br><sub>Balangaw</sub> | Cybersecurity education and awareness |
+| 18 | **⚖️ ᜋᜓᜈ᜔ᜐᜇ᜔ ᜊᜓᜇᜓᜎᜃᜏ᜔**<br><sub>Munsad Burulakaw</sub> | Responsible AI governance and safeguards |
+| 19 | **🚨 ᜉᜈ᜔ᜎᜒᜈᜓᜄᜓᜈ᜔**<br><sub>Panlinugon</sub> | Disaster preparedness and institutional resilience |
+| 20 | **🌿 ᜎᜓᜌᜓᜅ᜔ ᜊᜌ᜔ᜊᜌ᜔**<br><sub>Luyong Baybay</sub> | Environmental sustainability and ecological concerns |
+| 21 | **🔗 ᜐᜓᜋ᜔ᜉᜓᜌ᜔**<br><sub>Sumpoy</sub> | Verified workflow transitions and cross-team handoffs |
+| 22 | **📦 ᜊᜓᜎᜏᜈᜓᜈ᜔**<br><sub>Bulawanon</sub> | Procurement, equipment and asset stewardship |
+| 23 | **🎓 ᜋᜃᜊᜓᜐᜓᜄ᜔**<br><sub>Makabosog</sub> | Student welfare and scholarship guidance |
 
 </details>
 
@@ -123,18 +123,18 @@ I designed **MAKASAV2** as a mythology-inspired network of **37 named, task-spec
 
 | # | Agent | Specialization |
 |:--:|---|---|
-| 24 | **ᜋᜌᜇᜒ**<br><sub>Mayari</sub> | Academic programs, curricula and teaching coordination |
-| 25 | **ᜑᜈᜈ᜔**<br><sub>Hanan</sub> | Instructional design and learning-material support under Alunsina |
-| 26 | **ᜎᜓᜋᜏᜒᜄ᜔**<br><sub>Lumawig</sub> | Thesis and capstone mentoring, manuscript assessment |
-| 27 | **ᜆᜎ**<br><sub>Tala</sub> | Research portfolio and journal/conference submission tracking |
-| 28 | **ᜁᜇᜒᜀᜈᜎᜒ**<br><sub>Idianali</sub> | Intellectual property, copyrights, patents and technology transfer |
-| 29 | **ᜄᜓᜄᜓᜇᜅ᜔**<br><sub>Gugurang</sub> | Funded research, grants, milestones and deliverables |
-| 30 | **ᜇᜓᜋᜃᜓᜎᜒᜋ᜔**<br><sub>Dumakulem</sub> | Technology applications, systems and digital portfolio oversight |
-| 31 | **ᜎᜃᜉᜆᜒ**<br><sub>Lakapati</sub> | Agricultural research, field validation and sustainable-agriculture AI |
-| 32 | **ᜀᜋᜒᜑᜈ᜔**<br><sub>Amihan</sub> | Travel, itineraries and external engagements |
-| 33 | **ᜋᜇᜒᜌᜅ᜔ ᜋᜃᜒᜎᜒᜅ᜔**<br><sub>Mariang Makiling</sub> | Comparative religion, philosophy, mythology and culture |
-| 34 | **ᜑᜎᜒᜌ**<br><sub>Haliya</sub> | Personal language learning and linguistic practice |
-| 35 | **ᜐᜒᜇᜌ**<br><sub>Sidaya</sub> | Creative writing, poetry, fiction, scripts and literary editing (under Lisuga) |
+| 24 | **🏛️ ᜋᜌᜇᜒ**<br><sub>Mayari</sub> | Academic programs, curricula and teaching coordination |
+| 25 | **📝 ᜑᜈᜈ᜔**<br><sub>Hanan</sub> | Instructional design and learning-material support under Alunsina |
+| 26 | **🎯 ᜎᜓᜋᜏᜒᜄ᜔**<br><sub>Lumawig</sub> | Thesis and capstone mentoring, manuscript assessment |
+| 27 | **📑 ᜆᜎ**<br><sub>Tala</sub> | Research portfolio and journal/conference submission tracking |
+| 28 | **💡 ᜁᜇᜒᜀᜈᜎᜒ**<br><sub>Idianali</sub> | Intellectual property, copyrights, patents and technology transfer |
+| 29 | **🏅 ᜄᜓᜄᜓᜇᜅ᜔**<br><sub>Gugurang</sub> | Funded research, grants, milestones and deliverables |
+| 30 | **💻 ᜇᜓᜋᜃᜓᜎᜒᜋ᜔**<br><sub>Dumakulem</sub> | Technology applications, systems and digital portfolio oversight |
+| 31 | **🌱 ᜎᜃᜉᜆᜒ**<br><sub>Lakapati</sub> | Agricultural research, field validation and sustainable-agriculture AI |
+| 32 | **🧭 ᜀᜋᜒᜑᜈ᜔**<br><sub>Amihan</sub> | Travel, itineraries and external engagements |
+| 33 | **📖 ᜋᜇᜒᜌᜅ᜔ ᜋᜃᜒᜎᜒᜅ᜔**<br><sub>Mariang Makiling</sub> | Comparative religion, philosophy, mythology and culture |
+| 34 | **🗣️ ᜑᜎᜒᜌ**<br><sub>Haliya</sub> | Personal language learning and linguistic practice |
+| 35 | **✒️ ᜐᜒᜇᜌ**<br><sub>Sidaya</sub> | Creative writing, poetry, fiction, scripts and literary editing (under Lisuga) |
 
 </details>
 
