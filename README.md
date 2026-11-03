@@ -143,7 +143,7 @@ I designed **MAKASAV2** as a mythology-inspired network of **37 named, task-spec
 
 | # | Agent | Specialization |
 |:--:|---|---|
-| 36 | **🌊 天后**<br><sub>Tin Hau</sub> | Regional guidance, language, culture and travel support |
+| 36 | **🌊 天后**<br><sub>Tin Hau</sub> | Hong Kong travel, local guidance, Cantonese language and cultural support |
 | 37 | **🗂️ ᜀᜈᜄᜓᜎᜌ᜔**<br><sub>Anagolay</sub> | Information organization, knowledge management and digital resource support |
 
 </details>
