@@ -148,7 +148,7 @@ I designed **MAKASAV2** as a mythology-inspired network of **37 named, task-spec
 
 </details>
 
-> **How this works:** These are *named AI workflow roles/personas*, not 35 independently deployed or continuously running bots. Their names and symbolic assignments draw inspiration from Philippine and regional mythologies and literature; some role mappings and names are modern creative adaptations. Decisions, verification, and approvals remain human-led.
+> **How this works:** These are *named AI workflow roles/personas*, not independently deployed or continuously running bots. Their names and symbolic assignments draw inspiration from Philippine and regional mythologies and literature; some role mappings and names are modern creative adaptations. Decisions, verification, and approvals remain human-led.
 
 ---
 
